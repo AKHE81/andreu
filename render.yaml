@@ -1,0 +1,5 @@
+# Render static site config
+staticSites:
+  - name: mister-andrey-premium
+    buildCommand: ''
+    staticPublishPath: .
